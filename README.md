@@ -5,6 +5,8 @@ public class Person{
     int Umur;
 }
 
+https://user-images.githubusercontent.com/92707545/197341465-3b2d1abd-9f32-45b8-a875-511de2852253.png
+
 2. Membuat objek :
 
 public class panggil{
